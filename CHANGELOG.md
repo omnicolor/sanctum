@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.4...4.x)
+## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.5...4.x)
+
+## [v4.0.5](https://github.com/laravel/sanctum/compare/v4.0.4...v4.0.5) - 2024-11-26
+
+* [4.x] Supports PHP 8.4 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/sanctum/pull/542
+* [4.x] Remove generic requirement that token is an instance of a Model by [@cosmastech](https://github.com/cosmastech) in https://github.com/laravel/sanctum/pull/549
 
 ## [v4.0.4](https://github.com/laravel/sanctum/compare/v4.0.3...v4.0.4) - 2024-11-15
 
